@@ -1,0 +1,5 @@
+# Ignore logs folder
+logs/
+
+# Ignore venv folder
+venv/
